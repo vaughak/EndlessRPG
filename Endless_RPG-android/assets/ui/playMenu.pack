@@ -1,0 +1,68 @@
+
+playMenu.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+progressBarEmpty
+  rotate: false
+  xy: 1, 73
+  size: 720, 50
+  orig: 720, 50
+  offset: 0, 0
+  index: -1
+progressBarFull
+  rotate: false
+  xy: 1, 21
+  size: 720, 50
+  orig: 720, 50
+  offset: 0, 0
+  index: -1
+combatLog
+  rotate: false
+  xy: 723, 91
+  size: 153, 32
+  orig: 153, 32
+  offset: 0, 0
+  index: -1
+emptyHealthBar
+  rotate: false
+  xy: 1, 11
+  size: 45, 8
+  orig: 45, 8
+  offset: 0, 0
+  index: -1
+emptyManaBar
+  rotate: false
+  xy: 723, 81
+  size: 45, 8
+  orig: 45, 8
+  offset: 0, 0
+  index: -1
+fullManaBar
+  rotate: false
+  xy: 878, 115
+  size: 39, 8
+  orig: 39, 8
+  offset: 0, 0
+  index: -1
+healthBarFull
+  rotate: false
+  xy: 1, 1
+  size: 39, 8
+  orig: 39, 8
+  offset: 0, 0
+  index: -1
+emptyXP
+  rotate: false
+  xy: 48, 13
+  size: 39, 6
+  orig: 39, 6
+  offset: 0, 0
+  index: -1
+fullXP
+  rotate: false
+  xy: 723, 73
+  size: 39, 6
+  orig: 39, 6
+  offset: 0, 0
+  index: -1

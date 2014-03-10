@@ -1,0 +1,69 @@
+
+playMenuButtons.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+I_Chest01
+  rotate: false
+  xy: 1, 73
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+I_Chest02
+  rotate: false
+  xy: 1, 37
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+I_Scroll
+  rotate: false
+  xy: 37, 73
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+I_Scroll02
+  rotate: false
+  xy: 1, 1
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+P_Red01
+  rotate: false
+  xy: 37, 37
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+P_White01
+  rotate: false
+  xy: 73, 73
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+S_Buff10
+  rotate: false
+  xy: 37, 1
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+S_Buff12
+  rotate: false
+  xy: 73, 37
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+windowSkin
+  rotate: false
+  xy: 73, 11
+  size: 24, 24
+  split: 4, 4, 4, 4
+  orig: 24, 24
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,19 @@
+[
+{
+	class: kyle.endless_rpg.component.PlayerComponent,
+	raceTextureFile: sprites/Dwarf512.png,
+	name: Ducem
+},
+{
+	class: kyle.endless_rpg.component.StatsComponent,
+	strength: 14,
+	dexterity: 12,
+	charisma: 10,
+	wisdom: 19,
+	constitution: 14,
+	intelligence: 12
+},
+{
+	class: kyle.endless_rpg.component.QuestComponent
+}
+]
